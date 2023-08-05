@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **odiseorincon@gmail.com**
 
-- ⚡ Fun fact **im very resposible with my job**
+- ⚡ Fun fact **usually i forget how i can center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
