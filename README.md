@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Odiseo Esmerlin Rincon Sanchez</h1>
 <h3 align="center">A passionate software enginner from dominican republic</h3>
 
-- 🔭 I’m currently working on **multiple proyects**
+- 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React,C#,Nodejs**
+- 💬 Ask me about **Software developer,Machine Learning**
 
 - 📫 How to reach me **odiseorincon@gmail.com**
 
