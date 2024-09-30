@@ -1,20 +1,44 @@
-<h1 align="center">Hi 👋, I'm Odiseo Esmerlin Rincon Sanchez</h1>
-<h3 align="center">A passionate software enginner from dominican republic</h3>
+![Odiseo Rincón Sanchez]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://media.licdn.com/dms/image/v2/D4E16AQEjxc5y7FLHCA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722005803931?e=1733356800&v=beta&t=z_j40jP-Eka9mjSfEMpbTd2EhSjSc8ZMIMHorzvpl8w))
 
-- 🔭 I’m currently working on **Freelancer**
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Odiseo E. Rincón Sánchez</h2>
 
-- 🌱 I’m currently learning **Machine Learning**
+### 👨🏻‍💻 &nbsp;About Me
 
-- 💬 Ask me about **Software developer,Machine Learning**
+💡 &nbsp;I'm passionate about exploring new technologies and developing innovative software solutions.\
+🎓 &nbsp;I'm currently studying Software Engineering and Mathematics at ITLA.\
+🌱 &nbsp;I'm focusing on learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I enjoy pursuing Graphic Design and creative projects.\
+💬 &nbsp;Feel free to reach out to me for consulting, collaboration, or just to discuss interesting tech topics.\
+✉️ &nbsp;You can contact me via email at odiseo.rincon@example.com — I'll respond as soon as possible.\
+📄 &nbsp;Take a look at my [Résumé](https://www.odiseo-rincon.com/resume.html) for more details about my experience and skills. I'm always open to feedback and suggestions!
 
-- 📫 How to reach me **odiseorincon@gmail.com**
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- ⚡ Fun fact **usually i forget how i can center a div**
+### 🛠 &nbsp;Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/odiseo-rincon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=odiseo-rincon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=odiseo-rincon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/odiseo-esmerlin-rincon-sanchez-48053524b/"><img src="https://img.shields.io/badge/-Odiseo%20Rinc%C3%B3n%20S%C3%A1nchez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
