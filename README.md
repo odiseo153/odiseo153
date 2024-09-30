@@ -1,4 +1,4 @@
-![Odiseo Rincón Sanchez]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://media.licdn.com/dms/image/v2/D4E16AQEjxc5y7FLHCA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722005803931?e=1733356800&v=beta&t=z_j40jP-Eka9mjSfEMpbTd2EhSjSc8ZMIMHorzvpl8w))
+![Odiseo Rincón Sanchez](https://media.licdn.com/dms/image/v2/D4E16AQEjxc5y7FLHCA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722005803931?e=1733356800&v=beta&t=z_j40jP-Eka9mjSfEMpbTd2EhSjSc8ZMIMHorzvpl8w)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Odiseo E. Rincón Sánchez</h2>
 
@@ -28,14 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/odiseo-rincon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=odiseo-rincon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=odiseo-rincon&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
