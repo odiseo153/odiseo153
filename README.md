@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm focusing on learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I enjoy pursuing Graphic Design and creative projects.\
 💬 &nbsp;Feel free to reach out to me for consulting, collaboration, or just to discuss interesting tech topics.\
-✉️ &nbsp;You can contact me via email at odiseo.rincon@example.com — I'll respond as soon as possible.\
+✉️ &nbsp;You can contact me via email at odiseorincon@gmail.com — I'll respond as soon as possible.\
 📄 &nbsp;Take a look at my [Résumé](https://www.odiseo-rincon.com/resume.html) for more details about my experience and skills. I'm always open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
