@@ -1,4 +1,4 @@
-![Odiseo Rincón Sanchez](https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094)
+![Odiseo Rincón Sanchez](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNyN3RlYTlkMmU4bGZ4YzN6d2JvM3htNDJidGVpZHZ6dXpnYWE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Odiseo E. Rincón Sánchez</h2>
 
