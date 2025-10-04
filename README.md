@@ -1,4 +1,4 @@
-![Odiseo Rincón Sanchez](https://media.licdn.com/dms/image/v2/D4E16AQEjxc5y7FLHCA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722005803931?e=1733356800\&v=beta\&t=z_j40jP-Eka9mjSfEMpbTd2EhSjSc8ZMIMHorzvpl8w)
+![Odiseo Rincón Sanchez](https://media.licdn.com/dms/image/v2/D4E03AQGEwafWOUdlHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722377879105?e=1762387200&v=beta&t=PrWhGAT6RARb-Z5Xvl8N-oXza_bp2rH0jaVUj_gux4w)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Odiseo E. Rincón Sánchez</h2>
 
