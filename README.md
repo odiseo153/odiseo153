@@ -32,7 +32,7 @@
 ---
 
 ### 🧵 **Tailor CV**
-🔗 **Repository:** [View on GitHub](https://github.com/odiseo153/factura-f-cil-dr)
+🔗 **Repository:** [View on GitHub](https://github.com/odiseo153/Tailor_cv)
 
 **AI-powered application** that generates personalized CVs based on a specific job offer.
 
@@ -44,7 +44,7 @@
 ---
 
 ### 🧾 **FacturaRD**
-🔗 **Repository:** [View on GitHub](https://github.com/odiseo153/Tailor_cv)
+🔗 **Repository:** [View on GitHub](https://github.com/odiseo153/factura-f-cil-dr)
 
 Application for **processing invoices via images**, extracting structured data for submission to the **DGII (República Dominicana)**.
 
